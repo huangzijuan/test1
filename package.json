@@ -1,0 +1,22 @@
+{
+  "name": "react-native-nlp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "mobx": "5.9.4",
+    "mobx-react": "5.4.3",
+    "prop-types": "15.7.2",
+    "react": "16.8.3",
+    "react-dom": "16.8.6",
+    "react-native": "0.59.5"
+  }
+}
